@@ -2,9 +2,9 @@
 Project build for the course Oficinas de Integração 1 (Integration Workshops 1).
 
 ## Authors
-Ricardo Rodrigues Affonso
-Murilo Montalvão
-Leticia Gomes Forte
+- Ricardo Rodrigues Affonso
+- Murilo Montalvão
+- Leticia Gomes Forte
 
 https://github.com/RicardoAffonso0607/Braille-Printer-CNC/assets/127418054/813a2ba0-c319-4955-ae3d-10bbacdcde78
 
